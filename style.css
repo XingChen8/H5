@@ -28,13 +28,13 @@ body{
     -moz-animation: 0.2s linear;
 }
 .link-miss .icon{
-    background: url("../img/miss.png") no-repeat center center;
+    background: url("miss.png") no-repeat center center;
 }
 .link-play .icon{
-    background: url("../img/miss.png") no-repeat center center;
+    background: url("miss.png") no-repeat center center;
 }
 .link-touch .icon{
-    background: url("../img/miss.png") no-repeat center center;
+    background: url("miss.png") no-repeat center center;
 }
 /*
 Transform
@@ -67,7 +67,7 @@ delay定义过度效果何时开始（延时执行时间）
     margin: 0 auto;
     box-sizing: border-box;
     -moz-box-sizing:  border-box;
-    background: url("../img/row.png") no-repeat 130px center;
+    background: url("row.png") no-repeat 130px center;
     position: relative;
     transition: 0.4s ease;
     -webkit-transition: 0.4s ease;
